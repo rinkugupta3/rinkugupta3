@@ -2,8 +2,6 @@
 
 # Hi 👋, I'm Dhiraj Gupta
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2EAD33&height=120&section=header" width="100%"/>
-
 <div style="margin-top: -60px;">
 
 ### Senior QA Lead | AI-powered Test Automation | GenAI & Data Science Specialist
