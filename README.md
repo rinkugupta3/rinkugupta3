@@ -19,7 +19,9 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2EAD33&height=100&section=header" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2EAD33&height=120&section=header&text=Senior%20QA%20Automation%20Lead&fontSize=30" width="100%"/>
+</div>
 
 </div>
 ---
