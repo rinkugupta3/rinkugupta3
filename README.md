@@ -19,7 +19,7 @@
 
 <br/>
 
-<img src="https://custom-icon-badges.demolab.com/api?type=waving&color=EE4C2C&height=100&section=header&theme=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EE4C2C&height=100&section=header" width="100%"/>
 
 </div>
 
