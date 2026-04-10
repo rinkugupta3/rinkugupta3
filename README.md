@@ -1,7 +1,14 @@
+<div align="center">
+
 # Hi 👋, I'm Dhiraj Gupta
 
-### Senior QA Lead | AI-powered Test Automation | GenAI & Data Science Specialist | Automation & Manual Expert | PMP | CMS | CSPO
+### Senior QA Lead | AI-powered Test Automation | GenAI & Data Science Specialist 
+### Automation & Manual Expert | PMP | CSM | CSPO
 **Building production-grade automation frameworks and AI-driven testing solutions.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=rinkugupta3&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
