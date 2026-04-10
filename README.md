@@ -4,7 +4,7 @@
 
 <div style="margin-top: -60px;">
    
-### Senior QA Lead | AI-powered Test Automation | GenAI & Data Science Specialist
+### Senior QA Lead | 🛠️AI-powered Test Automation | GenAI & Data Science Specialist
 ### 🏆Automation and Manual Expert | PMP | CSM | CSPO
 
 **Building production-grade automation frameworks and AI-driven testing solutions.**
