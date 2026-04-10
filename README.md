@@ -19,10 +19,6 @@
 
 <br/>
 
-<marquee behavior="alternate" direction="left" scrollamount="4">
-  <img src="https://rinkugupta3.github.io/HTML_CSS_Portfolio/SoftwareQADesign.png" width="90">
-</marquee>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=EE4C2C&height=100&section=header" width="100%"/>
 
 </div>
