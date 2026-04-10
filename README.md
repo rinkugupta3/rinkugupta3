@@ -19,7 +19,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rinkugupta3&color=2EAD33&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://img.shields.io/badge/PROFILE_VIEWS-5000%2B-2EAD33?style=for-the-badge)
 
 </div>
 
