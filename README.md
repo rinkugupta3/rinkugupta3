@@ -20,7 +20,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2EAD33&height=120&section=header&text=Senior%20QA%20Automation%20Lead&fontSize=30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2EAD33&height=120&section=header&text=Senior%20QA%Lead%20Automation/Manual%20Expert&fontSize=30" width="100%"/>
 </div>
 
 </div>
