@@ -15,20 +15,17 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rinkugupta3&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=rinkugupta3&color=EE4C2C&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
+<marquee behavior="alternate" direction="left" scrollamount="4">
+  <img src="https://rinkugupta3.github.io/HTML_CSS_Portfolio/SoftwareQADesign.png" width="90">
+</marquee>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=EE4C2C&height=100&section=header" width="100%"/>
 
-<div style="margin-top: -50px;">
-  <marquee behavior="alternate" direction="left" scrollamount="4">
-    <img src="https://rinkugupta3.github.io/HTML_CSS_Portfolio/SoftwareQADesign.png" width="90">
-  </marquee>
 </div>
-
-</div>
-
 ---
 
 ### 📈 Impact at a Glance (Powered by AI)
