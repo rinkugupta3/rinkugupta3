@@ -2,17 +2,17 @@
 
 # Hi 👋, I'm Dhiraj Gupta
 
+''
 ### Senior QA Lead | AI-powered Test Automation | GenAI & Data Science Specialist 
 ### Automation & Manual Expert | PMP | CSM | CSPO
 
 **Building production-grade automation frameworks and AI-driven testing solutions.**
+  
 
 <br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiraj-gupta-802945265/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rinkugupta3)
 [![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirajgupta@hotmail.com)
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rinkugupta3&color=EE4C2C&style=for-the-badge&label=PROFILE+VIEWS)
