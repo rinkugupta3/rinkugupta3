@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dhiraj Gupta
 
-### Senior QA Automation Lead | GenAI & Data Science Specialist
+### Senior QA Lead | AI-powered Test Automation | GenAI & Data Science Specialist | Automation & Manual Expert | PMP | CMS | CSPO
 **Building production-grade automation frameworks and AI-driven testing solutions.**
 
 ---
