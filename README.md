@@ -2,7 +2,8 @@
 
 # Hi 👋, I'm Dhiraj Gupta
 
-''
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2EAD33&height=220&section=header&text=Senior%20QA%20Lead&fontSize=35&fontColor=ffffff&desc=Automation%20%26%20Manual%20Expert%20|%20PMP%20|%20CSM%20|%20CSPO%0A---%0A%0ABuilding%20production-grade%20automation%20frameworks%20and%20AI-driven%20testing%20solutions.&descSize=16&descAlign=true" width="100%"/>
+
 ### Senior QA Lead | AI-powered Test Automation | GenAI & Data Science Specialist 
 ### Automation & Manual Expert | PMP | CSM | CSPO
 
