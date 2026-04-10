@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2EAD33&height=150&section=header&text=Hi%20👋,%20I'm%20Dhiraj%20Gupta&fontSize=40&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2EAD33&height=80&section=header&text=Hi%20👋,%20I'm%20Dhiraj%20Gupta&fontSize=40&fontColor=ffffff" width="100%"/>
 # Hi 👋, I'm Dhiraj Gupta
 
 <div style="margin-top: -60px;">
