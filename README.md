@@ -19,8 +19,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=100&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EE4C2C&height=100&section=header" width="100%"/>
 </div>
 
 ---
