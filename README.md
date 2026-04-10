@@ -3,20 +3,18 @@
 # Hi 👋, I'm Dhiraj Gupta
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2EAD33&height=220&section=header&text=Senior%20QA%20Lead&fontSize=35&fontColor=ffffff&desc=Automation%20%26%20Manual%20Expert%20|%20PMP%20|%20CSM%20|%20CSPO%0A---%0A%0ABuilding%20production-grade%20automation%20frameworks%20and%20AI-driven%20testing%20solutions.&descSize=16&descAlign=true" width="100%"/>
-  
 
 <br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiraj-gupta-802945265/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rinkugupta3)
 [![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirajgupta@hotmail.com)
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rinkugupta3&color=EE4C2C&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rinkugupta3&color=2EAD33&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
----
 
 ### 📈 Impact at a Glance (Powered by AI)
 - 🚀 **35% Gain** in testing efficiency with **99.8% accuracy** via AI-powered automation.
