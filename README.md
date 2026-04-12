@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2EAD33&height=110&section=header&text=Hi%20👋,%20I'm%20Dhiraj%20Gupta&fontSize=40&fontColor=ffffff&desc=%0A%0A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=2EAD33&height=110&section=header&text=Hi%20👋,%20I'm%20Dhiraj%20Gupta&fontSize=40&fontColor=ffffff&desc=%0A%0A" width="100%"/>
 
 <div style="margin-top: -60px;">
    
